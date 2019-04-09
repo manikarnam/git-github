@@ -1,0 +1,1 @@
+Here subl represents sublime text, my default text editor, and newFile.txt is the new file I want to create and edit. git-bash opens the new file in you default text editor. You can edit and save from there, or just save
