@@ -5,3 +5,5 @@ while 1:
     if i == 10:  
         break;  
 print("came out of while loop"); 
+
+//nothing to modified we will check in bash terminal 
