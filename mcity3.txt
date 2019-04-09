@@ -5,4 +5,5 @@ for i in list:
         print("item matched")  
         count = count + 1;  
         break  
-print("found at",count,"location");  
+print("found at",count,"location"); 
+!! i make changes in mcity3 
