@@ -8,6 +8,3 @@ while 1:
     if choice == 0:  
         break;      
     n=n+1  
-
-
-
